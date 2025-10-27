@@ -45,7 +45,7 @@ Outros segmentos como **Small Business**, **Channel Partners**, **Midmarket** e 
 ## 📂 Conteúdo do Repositório
 | Arquivo | Descrição |
 |--------|-----------|
-| `Dio_Projeto.pbix` | Arquivo do relatório Power BI |
+| `Dio_Projeto.pbit` | Arquivo do relatório Power BI |
 | `Dio_Projeto.pdf` | Exportação em PDF do relatório |
 
 
